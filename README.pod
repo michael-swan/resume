@@ -20,11 +20,11 @@ L<dgonyeo@csh.rit.edu>
 
 =head2 Objective
 
-I’m currently looking for an internship for the summer of 2013 that will provide me with both interesting coding challenges and valuable work experience.
+I am currently looking for an internship for the summer of 2013 that will provide me with both interesting coding challenges and valuable work experience.
 
 =head2 Summary
 
-I’ve always had an interest in computers. Since teaching myself Java in 8th grade, I’ve enjoyed tackling and solving coding problems. I pick up new concepts quickly, and frequently research interesting things independently.
+I have always had an interest in computers. Since teaching myself Java in 8th grade, I’ve enjoyed tackling and solving coding problems. I pick up new concepts quickly, and frequently research interesting things independently.
 
 =head2 Education
 
@@ -39,10 +39,6 @@ Major: B.S. Game Design and Development
 =item
 
 GPA: 3.060/4.0
-
-=item
-
-Expected graduation: December 2012
 
 =item Fairport High School - Fairport, NY
 
@@ -144,6 +140,8 @@ Fluent Languages
 =item
 
 C#, Java
+
+=back
 
 =back
 
