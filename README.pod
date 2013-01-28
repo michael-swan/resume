@@ -14,7 +14,7 @@ Derek Gonyeo
 Rochester, NY 14623
 
 =item
-L<russ@eatnumber1.com>
+L<dgonyeo@csh.rit.edu>
 
 =back
 
