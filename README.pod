@@ -22,10 +22,6 @@ L<dgonyeo@csh.rit.edu>
 
 I am currently looking for an internship for the summer of 2013 that will provide me with both interesting coding challenges and valuable work experience.
 
-=head2 Summary
-
-I have always had an interest in computers. Since teaching myself Java in 8th grade, I’ve enjoyed tackling and solving coding problems. I pick up new concepts quickly, and frequently research interesting things independently.
-
 =head2 Education
 
 =over
@@ -38,47 +34,13 @@ Major: B.S. Game Design and Development
 
 =item
 
-GPA: 3.060/4.0
+GPA: 3.15/4.0
 
 =item Fairport High School - Fairport, NY
 
 =item
 
 GPA 92/100
-
-=back
-
-=head2 AP Credits
-
-=over
-
-=item
-
-United States History - 4 / 5
-
-=item
-
-English Language and Composition - 4 / 5
-
-=item
-
-Physics B - 5 / 5
-
-=item
-
-Physics C: Kinematics - 5 / 5
-
-=item
-
-Physics C: Electricity and Magnetism - 5 / 5
-
-=item
-
-Calculuc BC - 5 / 5
-
-=item
-
-Computer Science - 5 / 5
 
 =back
 
@@ -112,15 +74,7 @@ department owned equipment, and assisting students with their assignments if pos
 
 =item
 
-Title Position
-
-=item
-
 09/2008 - 09/2012
-
-=item
-
-L<companywebsite>
 
 =back
 
@@ -143,25 +97,31 @@ C#, Java
 
 =back
 
+=item
+
+Familiar Languages
+
+=over
+
+=item
+
+C, Javascript, Bash
+
+=back
+
 =back
 
 =head2 Extracurricular Clubs & Activities
 
+=item
+
+Boy Scout Troop 325
+
 =over
 
 =item
 
-CSH - Computer Science House
-
-=over
-
-=item
-
-Member
-
-=item
-
-L<http://www.csh.rit.edu/>
+Assistant Scoutmaster
 
 =back
 
@@ -195,13 +155,17 @@ President (June 2011 - June 2012)
 
 =item
 
-Boy Scout Troop 325
+CSH - Computer Science House
 
 =over
 
 =item
 
-Assistant Scoutmaster
+Member
+
+=item
+
+L<http://www.csh.rit.edu/>
 
 =back
 
