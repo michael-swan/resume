@@ -113,6 +113,8 @@ C, Javascript, Bash
 
 =head2 Extracurricular Clubs & Activities
 
+=over
+
 =item
 
 Boy Scout Troop 325
