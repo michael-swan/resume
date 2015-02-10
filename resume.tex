@@ -17,7 +17,7 @@
 \newcommand{\rdate}[1]{\hfill {\small #1}}
 \renewcommand{\employer}[5]{\item[#1] - #2 \rdate{#3} \\* #4 \rurl{#5}}
 \begin{document}
-\name{\Large Derek W. Gonyeo \hspace{105.2 mm} \footnotesize \url{http://blog.gonyeo.com} }
+\name{\Large Derek W. Gonyeo \hspace{105.2 mm} \footnotesize \url{https://blog.gonyeo.com} }
 \begin{resume}
 \section{\mysidestyle Contact} 
     \begin{asparablank}
@@ -34,6 +34,13 @@
 
 \section{\mysidestyle Experience}
     \begin{asparadesc}
+        \employer{CloudFlare}{San Francisco, CA} {June 2015 - August 2015}{Software Engineer Intern}{https://www.cloudflare.com/}
+
+        \small
+        Will be interning at CloudFlare in the summer of 2015.
+        \normalsize
+        \\
+
         \employer{Hudl}{Lincoln, NE}{June 2014 - Present}{Software Engineer Intern}{http://hudl.com}
 
         \small
@@ -43,7 +50,7 @@
         \employer{Stormfrog}{Victor, NY}{May 2013 - August 2013}{Mobile Developer Intern}{http://stormfrog.com}
 
         \small
-        Worked on a game written in Objective C using the Cocos2d framework for the iPhone. Implemented visual effects in the game including rain and particle effects, some animations related to the main character, and the majority of the in-game store.
+        Worked on a game written in Objective C for the iPhone. Implemented visual effects in the game, some animations related to the main character, and the majority of the in-game store.
         \normalsize
     \end{asparadesc}
 
@@ -57,13 +64,13 @@
 \section{\mysidestyle Projects}
     \begin{compactdesc}
         \item[Haskell CRDT] \rurl{https://github.com/dgonyeo/gatekeeper} \\
-            Implemented a Commutative Replicated Data Type from scratch in Haskell. A CRDT is a distributed data set with weak consistency guarantees, that replicates its data set to all nodes. Pulls data from LDAP, and uses Google's Protocol Buffers to transfer data between nodes. Gained familiarity with Haskell, Protocol Buffers, and distributed concepts like the CAP Theorem.
+            Implemented a Commutative Replicated Data Type from scratch in Haskell. A CRDT is a distributed data set with weak consistency guarantees. Pulls data from LDAP, and uses Google's Protocol Buffers to transfer data between nodes. Gained familiarity with Haskell, Protocol Buffers, and distributed concepts like the CAP Theorem.
         \item[ODD - One Dimensional Display] \rurl{https://github.com/dgonyeo/odd} \\
             Designed and build a custom display of RGB LEDs, controlled by a Raspberry Pi. Can be controlled over the network to add and remove animations with various parameters. Animations include holding a color, displaying a rainbow, strobing, and the game of life. Some animations analyze real time audio streams to display a music light show based on music. Gained familiarity with basic circuit board design, C, ALSA, and Fast Fourier Transforms.
         \item[Brandreth Statistics] \rurl{https://github.com/dgonyeo/brandreth2.0} \\
-            Created a website for accessing 20 years of entries from guest books at a friend's cabin. Allows users to search for and read all the entries, and generates various graphs based on the data. Gained familiarity with the Go language and Postgresql.
+            Created a website for accessing 20 years of entries from guest books at a friend's cabin. Gained familiarity with the Go language and PostgreSQL.
         \item[CSH News] \rurl{https://github.com/dgonyeo/AndroidWebnews} \\
-            Created an Android application that allows Computer Science House members to easily read posts from and write posts to an internal news service. Utilized an existing REST API built on top of NNTP. Gained familiarity with the Android SDK.
+            Created an Android application that allows Computer Science House members to easily read posts from and write posts to an internal news service.
     \end{compactdesc}
 
 \section{\mysidestyle Extracurricular \\ Activities}
